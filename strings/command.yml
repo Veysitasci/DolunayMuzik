@@ -50,7 +50,7 @@ SKIP_COMMAND : ["skip", "gec", "cskip"]
 SHUFFLE_COMMAND : ["shuffle", "dongu", "cshuffle"]
 LOOP_COMMAND : ["loop", "cloop"]
 SEEK_COMMAND : ["seek", "cseek", "seekback", "cseekback"]
-RESTART_COMMAND : ["restart"]
+RESTART_COMMAND : ["restart", "yenidenbaslat"]
 
 # Sudo Users Commaands
 
