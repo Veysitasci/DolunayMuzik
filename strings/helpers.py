@@ -7,20 +7,20 @@
 #
 # All rights reserved.
 
-HELP_1 = """✅**<u>Admin Commands:</u>**
+HELP_1 = """✅**<u>Yönetici Komutları|Admin Commands:</u>**
 
-**c** stands for channel play.
+**c** kanal oynatma anlamına gelir|stands for channel play.
 
-/pause or /cpause - Pause the playing music.
-/resume or /cresume- Resume the paused music.
-/mute or /cmute- Mute the playing music.
-/unmute or /cunmute- Unmute the muted music.
-/skip or /cskip- Skip the current playing music.
-/stop or /cstop- Stop the playing music.
-/shuffle or /cshuffle- Randomly shuffles the queued playlist.
-/seek or /cseek - Forward Seek the music to your duration
-/seekback or /cseekback - Backward Seek the music to your duration
-/restart - Restart bot for your chat .
+/durdur or /pause - Çalınan müziği duraklatın.|Pause the playing music.
+/devamet or /resume- Duraklatılan müziği devam ettirin.|Resume the paused music.
+/sustur or /mute- Çalan müziğin sesini kapatın.|Mute the playing music.
+/susturma or /unmute- Sessiz müziğin sesini açın.|Unmute the muted music.
+/gec or /skip- Mevcut çalan müziği atlayın.|Skip the current playing music.
+/durdur or /stop- Müzik çalmayı durdurun.|Stop the playing music.
+/dongu or /shuffle- Kuyruklu çalma listesini rastgele karıştırır.|Randomly shuffles the queued playlist.
+/seek or /seek - İleri Müziği sürenize göre arayın|Forward Seek the music to your duration.
+/seekback or /seekback - Geriye doğru Müziği sürenize göre arayın.|Backward Seek the music to your duration.
+/restart - Sohbetiniz için botu yeniden başlatın.|Restart bot for your chat .
 
 
 ✅<u>**Specific Skip:**</u>
